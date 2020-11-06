@@ -1,0 +1,80 @@
+.plants{
+   
+
+position: absolute;
+width: 100%;
+height: 100%;
+top: 100px;
+
+background: url(flora-green-leaf-plant.jpg);
+
+}
+
+.bayangan{
+position: absolute;
+width: 100%;
+height: 384px;
+top: 325px;
+background: rgba(244, 240, 240, 0.4);
+font-family: Goudy Old Style;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 77px;
+text-align: center;
+color: #000000;
+}
+
+.al{
+position: absolute;
+width: 327px;
+height: 280px;
+top: 60px;
+left: 474px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+color: #000000;
+}
+
+.subs{
+position: absolute;
+width: 180px;
+height: 61px;
+left: 550px;
+top: 175px;
+background: #FFFFFF;
+font-size: 22px;
+line-height: 50px;
+text-align: center;
+border: 2px solid #333333;
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+.logo{
+position: absolute;
+width: 120px;
+height: 50px;
+left: 133px;
+top: 30px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+font-family: Goudy Old Style;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+text-align: center;
+color: #000000;
+}
+
+.pilmenu{
+
+text-align: center;
+}
