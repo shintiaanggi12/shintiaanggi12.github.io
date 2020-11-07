@@ -1,0 +1,123 @@
+.hijaumuda{
+   
+
+    position: absolute;
+    width: 100%;
+    height:75%;
+    left: 0px;
+    top: 120px;
+
+    /* diklik */
+    background: #D7EBBD;
+    opacity: 0.8;
+    scroll-behavior: smooth;
+
+}
+
+.logo{
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    left: 133px;
+    top: -100px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    font-family: Goudy Old Style;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+    }
+
+.artikel1{
+
+    position: absolute;
+    width: 295px;
+    height: 315px;
+    left: 150px;
+    top: 35px;
+    border: 1px solid #615757;
+    box-sizing: border-box;
+    background-image: url("aaaaaaaaa.jpg");
+    background-repeat: no-repeat;
+
+
+
+}
+.a1{
+    position: absolute;
+    width: 295px;
+    height: 315px;
+    left: -50px;
+    top: 110px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    padding: 55px;
+}
+.w{
+    position: absolute;
+    width: 295px;
+    height: 315px;
+    top: 250px;
+    font-size: 16px;
+    text-align: center;
+    border-top: 1px solid #AAA9A9;
+    border-radius: 20px;
+
+}
+.artikel2{
+    position: absolute;
+    width: 295px;
+    height: 315px;
+    left: 535px;
+    top: 35px;
+    border: 1px solid #615757;
+    box-sizing: border-box;
+    background-image: url("Manfaat-Daun-Kelor-yang-Dikagumi-Bangsa-Barat-324x160.jpg");
+    background-repeat: no-repeat;
+
+}
+.a2{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    padding: 55px;
+    position: absolute;
+    width: 295px;
+    height: 315px;
+    left: -54px;
+    top: 110px;
+
+}
+
+.artikel3{
+    position: absolute;
+    width: 295px;
+    height: 315px;
+    left: 920px;
+    top: 35px;
+    border: 1px solid #615757;
+    box-sizing: border-box;
+    background-image: url("download\ \(1\).jpg");
+    background-repeat: no-repeat;
+
+}
+.a3{
+    position: absolute;
+    width: 295px;
+    height: 315px;
+    left: -54px;
+    top: 110px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    padding: 55px;    
+}
