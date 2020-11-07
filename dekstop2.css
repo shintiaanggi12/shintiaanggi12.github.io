@@ -7,6 +7,8 @@ height: 100%;
 top: 100px;
 
 background: url(flora-green-leaf-plant.jpg);
+background-repeat: no-repeat;
+background-size: cover;
 
 }
 
